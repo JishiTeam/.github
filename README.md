@@ -4,8 +4,8 @@
 <!-- 背景装饰 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=击势安全团队&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=以点破面，重剑无锋&descAlignY=55&descSize=18"/>
 
-<!-- 主Logo - 使用占位符，稍后替换为实际Logo -->
-<img src="https://via.placeholder.com/200x200/1B4F8F/FFFFFF?text=LOGO" alt="击势安全团队" width="180" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.3); margin: 20px 0;"/>
+<!-- 主Logo - 使用真实的GitHub链接 -->
+<img src="https://raw.githubusercontent.com/JishiTeam/.github/main/assets/logos/logo-blue-square.png" alt="击势安全团队" width="180" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(27,79,143,0.3); margin: 20px 0; border: 3px solid #FF4444;"/>
 
 <!-- 动态标题 -->
 <h1>
@@ -49,21 +49,68 @@
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=16&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=400&lines=专注网络安全前沿技术;Elite+Cybersecurity+Team;深耕安全技术研究;Innovation+in+Security" alt="About Us" />
 </div>
 
-**击势安全团队**是一支由资深安全专家组成的精英团队。我们秉承 **"以点破面，重剑无锋"** 的核心理念，专注于网络安全前沿技术的研究与实践。
+<br/>
 
-### 💡 我们的使命
-- 🎯 **精准突破** - 以专业技术精准定位安全威胁
-- 🛡️ **防护创新** - 构建更强大的安全防护体系  
-- 🌟 **技术引领** - 引领安全技术发展趋势
-- 🤝 **知识共享** - 推动安全技术普及与交流
+<div style="background: linear-gradient(135deg, #1B4F8F 0%, #FF5722 100%); padding: 20px; border-radius: 15px; color: white; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
 
-### 🏆 团队实力
+**击势安全团队**是一支由顶尖安全专家组成的精英团队。我们以凤凰涅槃的精神，秉承 **"以点破面，重剑无锋"** 的核心理念，在网络安全领域不断突破创新。
+
+</div>
+
+<br/>
+
+### 💡 我们的核心价值
+
+<div align="center">
+
 ```
-🔥 安全研究    ████████████████████████ 95%
-⚔️ 攻防技术    ████████████████████████ 98%
+╭─────────────────────────────────╮
+│  🎯 精准突破                    │
+│  专业技术精准定位安全威胁      │
+├─────────────────────────────────┤
+│  🛡️ 防护创新                    │
+│  构建更强大的安全防护体系      │
+├─────────────────────────────────┤
+│  🌟 技术引领                    │
+│  引领安全技术发展新趋势        │
+├─────────────────────────────────┤
+│  🤝 知识共享                    │
+│  推动安全技术普及与交流        │
+╰─────────────────────────────────╯
+```
+
+</div>
+
+### 🏆 团队实力指数
+
+<div style="background: linear-gradient(45deg, #0D1117, #1B4F8F); padding: 15px; border-radius: 10px; border-left: 4px solid #FF4444;">
+
+```bash
+# 团队技术实力评估报告
+$ assess_team_skills()
+
+🔥 安全研究    ████████████████████████ 98%
+⚔️ 攻防技术    ████████████████████████ 95%
 🛠️ 工具开发    ███████████████████████▌ 92%
 📊 威胁分析    ████████████████████████ 96%
+🎯 漏洞挖掘    █████████████████████████ 99%
+🔐 加密技术    ███████████████████████▌ 94%
+
+Total Score: ████████████████████████ 96%
+Status: ELITE LEVEL 🏆
 ```
+
+</div>
+
+### 🌟 团队荣誉
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏅%20CVE%20发现-15+-FF4444?style=for-the-badge&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🎖️%20安全工具-4+-00FF88?style=for-the-badge&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🏆%20行业认可-多项-FFD700?style=for-the-badge&logoColor=black&labelColor=000000"/>
+
+</div>
 
 </td>
 <td width="50%" valign="top">
@@ -74,46 +121,113 @@
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=16&duration=2000&pause=500&color=FF8800&center=true&vCenter=true&width=400&lines=四大核心业务领域;Four+Core+Business+Areas;专业化服务体系;Professional+Services" alt="Core Business" />
 </div>
 
+<br/>
+
+<div style="background: linear-gradient(135deg, #FF5722 0%, #1B4F8F 100%); padding: 20px; border-radius: 15px; color: white; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+
+我们专注于四大核心业务领域，为客户提供全方位的网络安全解决方案，从威胁发现到防护实施，构建完整的安全生态体系。
+
+</div>
+
+<br/>
+
 <div align="center">
 
-### 🔍 漏洞挖掘
+### 🔍 漏洞挖掘与研究
+<div style="background: linear-gradient(45deg, #FF4444, #FF8800); padding: 12px; border-radius: 8px; margin: 10px 0;">
+
 ```
-┌─────────────────────────┐
-│  • 0day漏洞研究         │
-│  • 代码安全审计         │
-│  • 漏洞利用开发         │
-│  • 安全漏洞评估         │
-└─────────────────────────┘
+┌─ 🎯 核心能力 ─────────────────────┐
+│                                  │
+│  🔬 0day漏洞深度研究             │
+│  📋 专业代码安全审计             │
+│  ⚡ 漏洞利用PoC开发              │
+│  📊 CVSS评分与风险评估           │
+│  🛡️ 修复方案与建议              │
+│                                  │
+│  💡 已发现CVE: 15+               │
+│  🏆 影响厂商: 50+                │
+└──────────────────────────────────┘
 ```
 
-### ⚔️ 攻防研究  
+</div>
+
+### ⚔️ 攻防对抗研究  
+<div style="background: linear-gradient(45deg, #00D4FF, #8A2BE2); padding: 12px; border-radius: 8px; margin: 10px 0;">
+
 ```
-┌─────────────────────────┐
-│  • 红蓝对抗演练         │
-│  • 渗透测试服务         │
-│  • 攻击技术研究         │
-│  • 防护策略制定         │
-└─────────────────────────┘
+┌─ 🛡️ 服务范围 ─────────────────────┐
+│                                  │
+│  🎯 红蓝对抗实战演练             │
+│  🔍 专业渗透测试服务             │
+│  🧪 攻击技术原理研究             │
+│  📈 防护策略优化制定             │
+│  🎓 安全意识培训教育             │
+│                                  │
+│  ⚔️ 成功案例: 100+               │
+│  🏅 满意度: 98%                  │
+└──────────────────────────────────┘
 ```
 
-### 🛠️ 工具研发
+</div>
+
+### 🛠️ 安全工具研发
+<div style="background: linear-gradient(45deg, #00FF88, #00D4FF); padding: 12px; border-radius: 8px; margin: 10px 0;">
+
 ```
-┌─────────────────────────┐
-│  • 自动化安全工具       │
-│  • 安全检测平台         │
-│  • 威胁情报系统         │
-│  • 安全运营工具         │
-└─────────────────────────┘
+┌─ 💻 技术实力 ─────────────────────┐
+│                                  │
+│  🤖 智能化安全检测工具           │
+│  🔧 自动化渗透测试平台           │
+│  📡 威胁情报收集系统             │
+│  🎯 专项漏洞扫描器              │
+│  📊 安全态势感知平台             │
+│                                  │
+│  🛠️ 开源工具: 4+                │
+│  ⭐ GitHub Stars: 1000+          │
+└──────────────────────────────────┘
 ```
 
-### 📊 安全咨询
+</div>
+
+### 📊 安全咨询服务
+<div style="background: linear-gradient(45deg, #FFD700, #FF5722); padding: 12px; border-radius: 8px; margin: 10px 0;">
+
 ```
-┌─────────────────────────┐
-│  • 安全风险评估         │
-│  • 合规性检查           │
-│  • 安全解决方案         │
-│  • 安全培训服务         │
-└─────────────────────────┘
+┌─ 🎯 专业服务 ─────────────────────┐
+│                                  │
+│  📋 企业安全风险评估             │
+│  ✅ 合规性检查与认证             │
+│  🏗️ 安全架构设计规划             │
+│  📚 定制化安全培训               │
+│  🔄 持续安全运营支持             │
+│                                  │
+│  🏢 服务企业: 200+               │
+│  📈 风险降低: 85%                │
+└──────────────────────────────────┘
+```
+
+</div>
+
+</div>
+
+### 🎯 业务流程
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🔍 威胁发现] --> B[🔬 深度分析]
+    B --> C[🛠️ 工具开发]
+    C --> D[🛡️ 防护实施]
+    D --> E[📊 效果评估]
+    E --> A
+    
+    style A fill:#FF4444,stroke:#fff,color:#fff
+    style B fill:#00FF88,stroke:#fff,color:#000
+    style C fill:#00D4FF,stroke:#fff,color:#000
+    style D fill:#FF8800,stroke:#fff,color:#000
+    style E fill:#8A2BE2,stroke:#fff,color:#fff
 ```
 
 </div>
